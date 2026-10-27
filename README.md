@@ -1,6 +1,6 @@
 # LanguageTool — self-hosted grammar, style and spell checking API (v6.8, 30+ languages, works with the browser add-ons). Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/lP9w06)
 
 [LanguageTool](https://github.com/languagetool-org/languagetool) (LGPL-2.1) is the open-source proofreading engine behind the LanguageTool browser extensions, LibreOffice and many editor plugins. It finds grammar, style, punctuation and spelling mistakes in more than 30 languages (English, German, French, Spanish, Dutch, Portuguese, Polish, Russian, Ukrainian, Catalan and more) and goes well beyond a spell checker. This template runs its HTTP API server (`/v2/check`, `/v2/languages`) at **6.8** (latest stable, released 2026-05-05) as a single Railway service. It needs **no deploy-time input** and no volume: deploy, then point your browser add-on or editor at `https://<your-domain>/v2`.
 
